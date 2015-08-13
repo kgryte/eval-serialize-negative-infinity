@@ -1,6 +1,6 @@
 {
   "name": "eval-serialize-negative-infinity",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Serializes negative infinity for dynamic code evaluation.",
   "author": {
     "name": "Athan Reines",
